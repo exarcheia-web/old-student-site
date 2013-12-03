@@ -30,3 +30,13 @@ a {
 a:hover {
 	color: #000;
 }
+
+.accordion > li > h4:hover {
+	cursor: pointer;
+	color: 	#47a3da;
+}
+
+.page-inner section {
+	border-bottom: 1px solid lightgray;
+	margin-bottom: 40px;
+}
